@@ -2,11 +2,10 @@
 
 ## 📝 Descrição do Projeto
 
-Este é um projeto de front-end que implementa uma aplicação web para sorteio de "Amigo Secreto". A interface permite que os usuários adicionem nomes de participantes a uma lista e, em seguida, realizem um sorteio para revelar um nome aleatório da lista.
+Este é um projeto que implementa uma aplicação web para sorteio de "Amigo Secreto". A interface permite que os usuários adicionem nomes de participantes a uma lista e, em seguida, realizem um sorteio para revelar um nome aleatório da lista.
 
-Este projeto foi desenvolvido como uma forma prática de aplicar conceitos fundamentais de desenvolvimento web, incluindo manipulação do DOM, eventos e lógica de programação com JavaScript.
+Este projeto foi desenvolvido como uma forma prática de aplicar conceitos fundamentais de desenvolvimento web, eventos e lógica de programação com JavaScript.
 
-**Atenção**: A funcionalidade atual do sorteio seleciona e exibe apenas **um nome aleatório** da lista de participantes, funcionando como um sorteador simples, e não como um sistema completo que cria pares de amigos secretos (onde cada participante sorteia outro).
 
 ## ✨ Funcionalidades Principais
 
@@ -18,11 +17,11 @@ Este projeto foi desenvolvido como uma forma prática de aplicar conceitos funda
 
 ## 🚀 Tecnologias Utilizadas
 
-O projeto foi construído utilizando tecnologias web padrão, sem a necessidade de frameworks ou bibliotecas externas, focando nos fundamentos do desenvolvimento front-end.
+O projeto foi construído utilizando tecnologias web padrão, sem a necessidade de frameworks ou bibliotecas externas.
 
 -   **HTML5**: Para a estrutura semântica da página.
 -   **CSS3**: Para a estilização completa, incluindo o uso de variáveis para um tema de cores consistente.
--   **JavaScript (Vanilla)**: Para toda a lógica de interatividade da aplicação, manipulação de eventos e do DOM.
+-   **JavaScript**: Para toda a lógica de interatividade da aplicação, manipulação de eventos e do DOM.
 
 ## 📁 Estrutura dos Arquivos
 
