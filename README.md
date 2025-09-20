@@ -38,3 +38,9 @@ Este projeto não requer nenhuma instalação de dependências ou configuração
 1.  **Faça o download dos arquivos**: Baixe os três arquivos (`index.html`, `style.css`, e `app.js`) e certifique-se de que eles estão na mesma pasta no seu computador.
 2.  **Abra o arquivo `index.html`**: Navegue até a pasta onde você salvou os arquivos e abra o arquivo `index.html` em qualquer navegador de internet moderno (como Google Chrome, Mozilla Firefox ou Microsoft Edge).
 3.  **Pronto!** A aplicação estará funcionando e pronta para ser utilizada.
+
+## 🚀 Acesso ao Projeto
+
+Você pode testar a aplicação em funcionamento através do seguinte link:
+
+[Clique aqui para acessar o Sorteador de Amigo Secreto](https://amigo-secreto-mauve-eta.vercel.app/).
